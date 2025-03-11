@@ -1,4 +1,4 @@
- package sec08;
+ package com.mundim.reactive_kafka_playground.sec08;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
